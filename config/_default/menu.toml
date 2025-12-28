@@ -21,4 +21,4 @@ name = "Instagram"
 url = "https://instagram.com/hipackme"
 
 [social.params]
-icon = "brand-instagram"
+icon = "instagram"
