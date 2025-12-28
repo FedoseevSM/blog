@@ -20,5 +20,10 @@ identifier = "instagram"
 name = "Instagram"
 url = "https://insta-stories-viewer.com/ru/hipackme/"
 
+[[social]]
+identifier = "youtube"
+name = "YouTube"
+url = "https://socialblade.com/youtube/handle/freelancerpotipako"
+
 # [social.params]
 # icon = "instagram"
