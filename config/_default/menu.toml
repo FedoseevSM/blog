@@ -20,5 +20,5 @@ identifier = "instagram"
 name = "Instagram"
 url = "https://instagram.com/hipackme"
 
-[social.params]
-icon = "instagram"
+# [social.params]
+# icon = "instagram"
