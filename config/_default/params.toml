@@ -19,7 +19,7 @@ subtitle = "Веб-разработчик с международным опыт
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/photo.jpg"
 
 [article]
 headingAnchor = false
